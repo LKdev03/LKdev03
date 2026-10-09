@@ -2,7 +2,7 @@
 
 I'm Lasse, a Computer Science student at Aalto University.
 
-I have a background in full-stack development and AI engineering, with experience in agentic AI, voice-based agents, and retrieval-augmented generation (RAG). I've also explored gradient-based optimization and neuroevolution in machine learning through my studies and projects.
+I have a background in full-stack development and AI engineering, with experience in agentic AI, voice-based agents, and retrieval-augmented generation (RAG). I've also explored gradient-based learning and neuroevolution in machine learning through my studies and projects.
 
 Lately, I've been diving deeper into Go, systems engineering, and distributed systems. The latter even being the focus of my bachelor's thesis!
 
